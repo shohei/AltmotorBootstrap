@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -6978,11 +6978,7 @@ DIN A4, landscape with location and doc. field</description>
 <sheet>
 <plain>
 <text x="243.84" y="-78.74" size="1.778" layer="94">1</text>
-<text x="162.56" y="-76.2" size="2.54" layer="94">2016-CML-drvr-0000</text>
-<text x="162.56" y="-68.58" size="3.302" layer="94">ALTMOTOR TYPE0</text>
-<text x="152.4" y="-82.55" size="1.778" layer="94">2016 Feb</text>
-<text x="223.52" y="-82.55" size="1.778" layer="94">1/1</text>
-<text x="231.14" y="-76.2" size="2.54" layer="94">1</text>
+<text x="160.02" y="-76.2" size="2.54" layer="94">2016-CML-drvr-0000</text>
 </plain>
 <instances>
 <instance part="OUTPUT" gate="G$1" x="162.56" y="-7.62"/>
